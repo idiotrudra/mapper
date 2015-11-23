@@ -6,6 +6,7 @@ import com.idiot.rudra.mapper.AbstractMapper;
 
 /**
  * Mapper for employee Object. 
+ * 
  * @author IdiotRudra
  * @date Nov 23, 2015
  */
