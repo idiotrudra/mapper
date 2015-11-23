@@ -4,7 +4,11 @@ import com.idiot.rudra.example.Department2;
 import com.idiot.rudra.example.Employee1;
 import com.idiot.rudra.example.Employee2;
 import com.idiot.rudra.mapper.AbstractMapper;
-
+/**
+ * Mapper for department class.
+ * @author IdiotRudra
+ *
+ */
 public class DepartmentMapper extends AbstractMapper<Employee1, Employee2> {
 
 	@Override
