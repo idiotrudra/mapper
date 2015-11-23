@@ -9,6 +9,12 @@ import com.idiot.rudra.example.Employee1;
 import com.idiot.rudra.example.Employee2;
 import com.idiot.rudra.mapper.IMapper;
 
+/**
+ * This class is for testing employee mapper. 
+ * all the fields should be copied successfully in target object.
+ * @author IdiotRudra
+ * @date Nov 23, 2015
+ */
 public class TestEmployeeMapper {
 
 	@Test

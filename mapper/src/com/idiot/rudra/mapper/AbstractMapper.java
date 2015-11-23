@@ -3,6 +3,14 @@ package com.idiot.rudra.mapper;
 import java.util.ArrayList;
 import java.util.List;
 
+/**
+ * Abstract mapper to perform common task in the application.
+ * 
+ * @author IdiotRudra
+ * @date Nov 23, 2015
+ * @param <S> source object
+ * @param <D> target object which should be mapped
+ */
 public abstract class AbstractMapper<S, D> implements IMapper<S, D> {
 
 	public AbstractMapper() {

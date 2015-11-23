@@ -4,6 +4,11 @@ import com.idiot.rudra.example.Employee1;
 import com.idiot.rudra.example.Employee2;
 import com.idiot.rudra.mapper.AbstractMapper;
 
+/**
+ * Mapper for employee Object. 
+ * @author IdiotRudra
+ * @date Nov 23, 2015
+ */
 public class EmployeeMapper extends AbstractMapper<Employee1, Employee2>{
 
 	public void addMyChild() {
